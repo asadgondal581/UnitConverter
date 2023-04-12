@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_update_note">Add/Update Note</string>
+    <string name="history">History</string>
+    <string name="add_history">Add History</string>
+    <string name="textview">TextView</string>
+    <string name="converter">Converter</string>
+    <string name="kg">Kg</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="enter_unit">Enter Unit</string>
+    <string name="item1">item1</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="units">Units</string>
+
+
+    <string-array name="units">
+        <item>KG</item>
+        <item>Meter</item>
+        <item>Second</item>
+    </string-array>
+</resources>
